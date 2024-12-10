@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**dudalmso/dudalmso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nos últimos anos, venho desenvolvendo automações com **Python**, aplicando soluções para otimizar processos. Recentemente, iniciei meus estudos em **PHP**, **HTML**, **CSS** e **JavaScript** para trabalhar em formulários e ampliar minhas habilidades como desenvolvedora.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades e Ferramentas
+- **Python**: Desenvolvimento de automações.
+- **PHP, HTML, CSS e JavaScript**: Estudos em andamento para criação de formulários.
+- **Ferramentas**: Git, VS Code, SQL.
+
+---
+
+## 🚀 Projetos no GitHub
+Aqui estão alguns dos projetos que desenvolvi. Explore diretamente nos repositórios:
+- [Automação de Processos com Python](https://github.com/seuusuario/nome-do-projeto)
+- [Formulário Simples com PHP e HTML](https://github.com/seuusuario/nome-do-projeto)
+
+---
+
+## 🎯 Objetivo
+Meu objetivo é atuar na área de **desenvolvimento backend**, contribuindo com soluções práticas e eficientes, sempre com humildade e vontade de aprender. Acredito que cada desafio é uma oportunidade para evoluir como profissional e como pessoa.
+
+---
+
+## 📫 Contato
+- **E-mail**: dudalmso@gmail.com
+- **LinkedIn**: [Seu Perfil no LinkedIn](https://linkedin.com/in/seu-perfil)
+
+Estou à disposição para aprender, colaborar e construir algo significativo! 🚀
