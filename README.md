@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!
 
-Nos últimos anos, venho desenvolvendo automações com **Python**, aplicando soluções para otimizar processos. Recentemente, iniciei meus estudos em **PHP**, **HTML**, **CSS** e **JavaScript** para trabalhar em formulários e ampliar minhas habilidades como desenvolvedora.
+No últimoano, venho desenvolvendo automações com **Python**, aplicando soluções para otimizar processos. Recentemente, iniciei meus estudos em **PHP**, **HTML**, **CSS** e **JavaScript** para trabalhar em formulários e ampliar minhas habilidades como desenvolvedora.
 
 ---
 
@@ -13,8 +13,8 @@ Nos últimos anos, venho desenvolvendo automações com **Python**, aplicando so
 
 ## 🚀 Projetos no GitHub
 Aqui estão alguns dos projetos que desenvolvi. Explore diretamente nos repositórios:
-- [Automação de Processos com Python](https://github.com/seuusuario/nome-do-projeto)
-- [Formulário Simples com PHP e HTML](https://github.com/seuusuario/nome-do-projeto)
+- [Automação de Processos com Python](https://github.com/dudalmso/projetos_praticos/blob/main/senha_expira_control.py)
+- [Formulário Simples com PHP e HTML](https://github.com/dudalmso/projetos_praticos/blob/main/acesso.php)
 
 ---
 
@@ -25,6 +25,6 @@ Meu objetivo é atuar na área de **desenvolvimento backend**, contribuindo com 
 
 ## 📫 Contato
 - **E-mail**: dudalmso@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://linkedin.com/in/seu-perfil)
+- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/maria-eduarda-lima-de-sousa-901aa126b/)
 
 Estou à disposição para aprender, colaborar e construir algo significativo! 🚀
