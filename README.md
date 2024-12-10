@@ -25,6 +25,6 @@ Meu objetivo é atuar na área de **desenvolvimento backend**, contribuindo com 
 
 ## 📫 Contato
 - **E-mail**: dudalmso@gmail.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/maria-eduarda-lima-de-sousa-901aa126b/)
+- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/maria-eduarda-lima-de-sousa-901aa126b/)
 
 Estou à disposição para aprender, colaborar e construir algo significativo! 🚀
