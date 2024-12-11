@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!
 
-No últimoano, venho desenvolvendo automações com **Python**, aplicando soluções para otimizar processos. Recentemente, iniciei meus estudos em **PHP**, **HTML**, **CSS** e **JavaScript** para trabalhar em formulários e ampliar minhas habilidades como desenvolvedora.
+No último ano, venho desenvolvendo automações com **Python**, aplicando soluções para otimizar e automatizar processos. Recentemente, iniciei meus estudos em **PHP**, **HTML**, **CSS** e **JavaScript** para trabalhar em formulários e ampliar minhas habilidades como programadora.
 
 ---
 
@@ -19,7 +19,7 @@ Aqui estão alguns dos projetos que desenvolvi. Explore diretamente nos reposit�
 ---
 
 ## 🎯 Objetivo
-Meu objetivo é atuar na área de **desenvolvimento backend**, contribuindo com soluções práticas e eficientes, sempre com humildade e vontade de aprender. Acredito que cada desafio é uma oportunidade para evoluir como profissional e como pessoa.
+Meu objetivo é atuar na área de **desenvolvimento backend**, contribuindo com soluções práticas e eficientes. Acredito que cada desafio é uma oportunidade para evoluir como profissional e como pessoa.
 
 ---
 
