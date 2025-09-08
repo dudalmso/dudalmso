@@ -1,30 +1,33 @@
-# Olá! 👋 Bem-vindo ao meu GitHub!
+Olá! 👋 Eu sou a Duda!
 
-No último ano, venho desenvolvendo automações com **Python**, aplicando soluções para otimizar e automatizar processos. Recentemente, iniciei meus estudos em **PHP**, **HTML**, **CSS** e **JavaScript** para trabalhar em formulários e ampliar minhas habilidades como programadora.
+Programo desde 2023 e meu primeiro contato com programação foi durante meu primeiro estágio. Desde então, venho desenvolvendo aplicações em Python, PHP, HTML e JavaScript, sempre buscando aprender e aplicar soluções práticas. Tenho experiência com bancos de dados MySQL, e já trabalhei também com Oracle e PostgreSQL.
 
----
+🎯 Objetivo
 
-## 🛠️ Habilidades e Ferramentas
-- **Python**: Desenvolvimento de automações.
-- **PHP, HTML, CSS e JavaScript**: Estudos em andamento para criação de formulários.
-- **Ferramentas**: Git, VS Code, SQL.
+Meu objetivo é aprimorar cada vez mais meus conhecimentos em Python, explorando suas possibilidades e criando aplicações úteis. Quero aprender, testar e evoluir de forma prática, aproveitando cada desafio como oportunidade de crescimento.
 
----
+🛠️ Habilidades e Ferramentas
 
-## 🚀 Projetos no GitHub
-Aqui estão alguns dos projetos que desenvolvi. Explore diretamente nos repositórios:
-- [Automação de Processos com Python](https://github.com/dudalmso/projetos_praticos/blob/main/senha_expira_control.py)
-- [Formulário Simples com PHP e HTML](https://github.com/dudalmso/projetos_praticos/blob/main/acesso.php)
+Python & Flask: Desenvolvimento de aplicações e automações.
 
----
+PHP, HTML e JavaScript: Criação de formulários e interfaces simples.
 
-## 🎯 Objetivo
-Meu objetivo é atuar na área de **desenvolvimento backend**, contribuindo com soluções práticas e eficientes. Acredito que cada desafio é uma oportunidade para evoluir como profissional e como pessoa.
+Bancos de Dados: MySQL, Oracle, PostgreSQL.
 
----
+Ferramentas: Git, VS Code, SQL.
 
-## 📫 Contato
-- **E-mail**: dudalmso@gmail.com
-- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/maria-eduarda-lima-de-sousa-901aa126b/)
+🚀 Projetos no GitHub
 
-Estou à disposição para aprender, colaborar e construir algo significativo! 🚀
+Alguns projetos que desenvolvi:
+
+Automação de Processos com Python
+
+Formulário Simples com PHP e HTML
+
+📫 Contato
+
+E-mail: dudalmso@gmail.com
+
+LinkedIn: Meu Perfil no LinkedIn
+
+Estou sempre animada para aprender, colaborar e construir projetos significativos! 🚀
