@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou a Duda!
 
-Programo há cerca de **2 anos** e tive meu primeiro contato com programação no meu primeiro estágio. Desde então, venho desenvolvendo aplicações em **Python**, **PHP**, **HTML** e **JavaScript**, sempre buscando aprender e criar soluções práticas. Tenho experiência com **bancos de dados MySQL**, e já trabalhei também com **Oracle** e **PostgreSQL**.
+Programo há cerca de 2 anos e tive meu primeiro contato com programação no meu primeiro estágio. Desde então, venho desenvolvendo aplicações em Python, PHP, HTML e JavaScript, utilizando MySQL, Oracle e PostgreSQL, sempre buscando aprender e criar soluções práticas.
 
 ---
 
